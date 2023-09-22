@@ -1,4 +1,4 @@
-# Minha API em GraphQL
+# Minha API em GraphQL (https://github.com/fabiomendes33/TRABALHO-MVP-DESENV.-FULL-STACK-AVANCADO-STRAWBERRY-API.git)
 
 Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Full Stack Avançado** 
 
